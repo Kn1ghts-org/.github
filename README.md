@@ -1,9 +1,18 @@
-# Kn1ghts — `.github`
+# Kn1ghts
 
-This repository holds organization-level GitHub configuration for **Kn1ghts-org**.
+We design and host Capture The Flag (CTF) cybersecurity events for companies —
+end-to-end, from challenge design to live scoring infrastructure.
 
-The public org profile at <https://github.com/Kn1ghts-org> is rendered from
-[`profile/README.md`](profile/README.md) — edit that file to change what visitors see.
+🌐 Website: https://kn1ghts-beta.vercel.app/
+💼 LinkedIn: https://www.linkedin.com/company/kn1ghts/
+📧 Contact: [CONTACT_EMAIL]
 
-> **Note:** `profile/README.md` must stay at that exact path. GitHub only renders the
-> org profile from `profile/README.md` in a repo named `.github`.
+---
+
+### What we do
+- Custom CTF challenge design across web, crypto, forensics, pwn, and OSINT
+- Fully managed event hosting and scoreboard infrastructure
+- Post-event debriefs and writeups for participants
+
+### Team
+6-person team building and running events end to end.
