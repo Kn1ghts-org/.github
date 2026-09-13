@@ -3,8 +3,8 @@
 We design and host Capture The Flag (CTF) cybersecurity events for companies —
 end-to-end, from challenge design to live scoring infrastructure.
 
-🌐 Website: https://kn1ghts-beta.vercel.app/
-💼 LinkedIn: https://www.linkedin.com/company/kn1ghts/
+🌐 Website: https://kn1ghts-beta.vercel.app/<br>
+💼 LinkedIn: https://www.linkedin.com/company/kn1ghts/<br>
 📧 Contact: [CONTACT_EMAIL]
 
 ---
